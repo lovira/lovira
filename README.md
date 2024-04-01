@@ -1,4 +1,5 @@
-### Hi there 👋
+<h2> 👋 Welcome! You've landed on my portfolio — a carefully selected showcase of my professional and/or creative works👋  </h2>
+
 
 <!--
 **lovira/lovira** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
