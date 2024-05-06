@@ -26,11 +26,11 @@
 </ul>
 
 ### 🧰 Tools:
-Python, SQL, HTML + CSS, Markdown, nmap, github. 
+Python, Django, SQLite, MariaDB, HTML, CSS, Javascript, Linux, MacOS, Windows and Github
 
 
 ### 🌱 I'm currently learning:
-Cloud, Cybersecurity and IT Ops.
+Cloud and IT Ops
 
 ### 📩 How to reach me: lovira08 [at] gmail [dot] com
 
