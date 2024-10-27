@@ -26,7 +26,7 @@
 </ul>
 
 ### 🧰 Tools:
-Python, Django, SQLite, MariaDB, HTML, CSS, Javascript, Linux, MacOS, Windows and Github
+Python, SQLite, MariaDB, HTML, CSS, Javascript, Linux, MacOS, Windows and Github
 
 
 ### 🌱 I'm currently learning:
